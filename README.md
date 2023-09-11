@@ -1,6 +1,6 @@
 # Hello, I am Dantavious 
 **I am a Computer Science major Student**
-- 👋🏽 I am currently working on developing person projects.
+- 👋🏽 I am currently working on developing personal projects and expanding my knowledge.
 - 📖 I am currently learning Typescript, React, and C#
 - 📭 You can reach me via discord or email
 ## Technologies
