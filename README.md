@@ -1,7 +1,23 @@
-### Hi there 👋
+# Hello, I am Dantavious 
+**I am a Computer Science major Student**
+- 👋🏽 I am currently working on developing person projects.
+- 📖 I am currently learning Typescript, React, and C#
+- 📭 You can reach me via discord or email
+## Technologies
+- Backend development using Node.JS, MongoDB, MySQL
+- Frontend development using HTML, CSS, Javascript
+- Discord bot development using DiscordJS<br />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHEREISDAN&theme=github_dark&show_icons=true)
 
 <!--
-**WHEREISDAN/WHEREISDAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**n4n-0/n4n-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
