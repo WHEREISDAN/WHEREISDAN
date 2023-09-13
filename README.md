@@ -51,11 +51,12 @@
  
 <p>
  <img align="right" width="150" src="/assets/programmer.gif" alt="Coding gif" />
- ✌️ &emsp; I am a computer software engineering major at Western Governors University <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; I am a computer software engineering major at Western Governors University <br/>
+ 👋🏽 &emsp; I am currently working on developing FiveM Resources, Discord bots, and other personal projects<br/>
+ 📖 &emsp; I am currently learning Typescript, React, and C#. I want to play around with game development in 2024<br/>
+ 📭 &emsp; You can reach me via discord or email<br/>
 </p>
 
-<br/>
 
 ## Use To Code
 
